@@ -1,0 +1,9 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  }
+}
